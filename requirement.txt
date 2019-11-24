@@ -1,0 +1,6 @@
+install R packages of shiny, leaflet, ggplot2, dplyr and reshape2
+	install.packages("shiny")
+	install.packages("leaflet")
+	install.packages("ggplot2")
+	install.packages("dplyr")
+	install.packages("reshape2")

@@ -1,0 +1,65 @@
+﻿X,Y,OBJECTID,BRINGBANKN,TOWNNAME,ACCEPTSCAN,ACCEPTSGLA,ACCEPTSPLA,ACCEPTSTEX,Private_SDCC,I
+-6.294560063,53.28430476,1,The Buglers,Ballyboden,Yes,Yes,No,Yes,Private,A
+-6.396849395,53.32485841,3,The Mill Shopping Centre,Clondalkin,Yes,Yes,No,Yes,Private,B
+-6.362399067,53.3190326,4,Red Cow Complex,Clondalkin,Yes,Yes,No,No,Private,B
+-6.401284971,53.32246773,5,Clondalkin Sports & Leisure Centre,Clondalkin,No,Yes,No,No,SDCC,B
+-6.415512158,53.30533037,6,Camac Valley,Clondalkin,No,Yes,No,No,SDCC,B
+-6.412039707,53.32452103,7,Bawnogue Shopping Centre Car Park,Bawnogue,No,Yes,No,No,Private,A
+-6.340925787,53.27606457,8,Firhouse Community Centre Car Park,Firhouse,No,Yes,No,Yes,Private,A
+-6.319098784,53.28271522,9,Superquinn,Knocklyon,Yes,Yes,No,Yes,Private,A
+-6.451426425,53.34776082,10,Superquinn,Lucan,Yes,Yes,No,Yes,Private,C
+-6.451354758,53.34108944,11,Lord Lucan Pub,Lucan,No,Yes,No,No,Private,C
+-6.436748431,53.34761669,12,Lucan Sports & Leisure Centre,Lucan,No,Yes,No,Yes,SDCC,C
+-6.450784773,53.34696403,13,Sports Ground Car Park,Lucan,Yes,Yes,No,No,SDCC,C
+-6.37864927,53.35083202,14,Supervalue,Palmerstown,Yes,Yes,No,No,Private,A
+-6.296779811,53.29823835,15,Rathfarnham Shopping Centre,Rathfarnham,Yes,Yes,No,Yes,Private,E
+-6.282709506,53.28651547,16,Corner of Grange Road/Sarah Curran Avenue,Rathfarnham,No,Yes,No,No,SDCC,E
+-6.289240437,53.27790453,17,Whitechurch Shopping Centre CarPark,Rathfarnham,No,Yes,No,No,Private,E
+-6.357653037,53.29037208,18,St. Marys N.S.,Tallaght,Yes,No,No,Yes,Private,G
+-6.37495668,53.28579186,19,"The Square, 3rd Level Car Park",Tallaght,Yes,Yes,No,Yes,Private,G
+-6.351197067,53.30284891,20,Cuckoos Nest,Tallaght,Yes,Yes,No,No,Private,G
+-6.39696311,53.27731062,21,Jobstown House,Tallaght,Yes,Yes,No,No,Private,G
+-6.359935557,53.28764294,22,Molloys Car Park,Tallaght,Yes,No,No,No,Private,G
+-6.367122377,53.30785331,23,Kingswood Shopping Centre Car Park,Tallaght,No,Yes,No,Yes,Private,G
+-6.360100077,53.26325112,24,Bus Terminus,Tallaght,No,Yes,No,No,SDCC,G
+-6.394993335,53.29341321,25,Fettercairn Community Centre Car Park,Tallaght,No,Yes,No,No,SDCC,G
+-6.359430118,53.27775568,26,Ahernes Pub Car Park,Tallaght,No,Yes,No,No,Private,G
+-6.34532472,53.28630971,27,Site on Avonbeg Road,Tallaght,No,Yes,No,No,SDCC,G
+-6.325949223,53.29690915,28,Tymon Park Car Park,Tallaght,Yes,Yes,No,No,SDCC,G
+-6.34017422,53.30491524,29,Tymon Park Car Park,Tallaght,No,Yes,No,No,SDCC,G
+-6.343529534,53.29897355,30,Tymon Park Car Park,Tallaght,No,Yes,No,No,SDCC,G
+-6.329086286,53.29696842,31,United Football Club,Templeogue,Yes,No,No,Yes,SDCC,H
+-6.455088193,53.23718742,32,Blue Gardenia Pub Car Park,Brittas,No,No,No,Yes,Private,A
+-6.398774619,53.35142095,33,Quarryvale Community & Leisure Centre,Clondalkin,No,Yes,No,Yes,SDCC,B
+-6.323093453,53.31083936,34,Perrystown Community Centre,Perrystown,No,Yes,No,No,SDCC,A
+-6.445638674,53.34354664,35,Lucan Sports Ground Car Park,Lucan,No,Yes,No,No,SDCC,C
+-6.422650942,53.3467702,36,Eurospar Lucan (Beside Penny Hill Pub),Lucan,Yes,Yes,No,No,Private,C
+-6.373471302,53.28164867,37,Sean Walsh Park Parks Depot,Tallaght,Yes,Yes,No,Yes,SDCC,G
+-6.408728703,53.31622541,38,Corkagh Park ,Clondalkin,No,Yes,No,Yes,SDCC,B
+-6.371611676,53.28835375,39,Civic Theatre,Tallaght,No,Yes,No,No,SDCC,G
+-6.459024503,53.28363878,40,Avoca Handweavers,Rathcoole,No,Yes,No,Yes,Private,D
+-6.39419696,53.28332062,41,Tallaght Leisure Centre,"Jobstown, Tallaght",Yes,Yes,No,No,SDCC,G
+-6.465568103,53.35622996,42,Lucan Spa Hotel Car Park,Lucan,No,Yes,No,Yes,Private,C
+-6.412433558,53.30537591,43,Corkagh Park Car Park,Clondalkin,No,Yes,No,Yes,SDCC,B
+-6.431510383,53.34507633,44,Griffeen Road,Lucan,No,Yes,No,No,SDCC,C
+-6.386403066,53.29804454,45,Ard Mhuire National School,Tallaght,Yes,No,No,Yes,Private,G
+-6.395249051,53.27740111,46,Killinardin Heights,Tallaght,No,Yes,No,No,SDCC,G
+-6.469009414,53.28176803,47,Spar,Rathcoole,No,No,No,Yes,Private,D
+-6.332655269,53.31024117,48,Greenhills Community Centre,Tallaght,Yes,Yes,No,Yes,Private,G
+-6.467949517,53.28260954,50,Rathcoole Community centre,Rathcoole,No,No,No,Yes,Private,D
+-6.417714884,53.30082093,51,Roadstone Group Sports Club,Kingswood,No,Yes,No,No,Private,A
+-6.281289207,53.29465877,52,"Grange Road, Rathfarnham",Rathfarnham,No,Yes,No,No,SDCC,E
+-6.391427834,53.32792243,53,lidl Nangor Rd,Clondalkin,No,No,No,Yes,Private,B
+-6.451488462,53.34163366,54,Lord Lucan Textile Bring Bank,Lucan,No,No,No,Yes,Private,C
+-6.436300411,53.34786019,55,Scoil Cois Life,Lucan,No,No,No,Yes,Private,C
+-6.327981859,53.29684048,56,St. Judes GAA club,Templeogue,Yes,Yes,No,Yes,SDCC,H
+-6.451250157,53.3293864,57,Grange Castle Business Park,Lucan,No,Yes,No,No,SDCC,C
+-6.299246933,53.29445281,58,Old Orchard Inn,Rathfarnham,No,Yes,No,No,Private,E
+-6.318029287,53.31535877,59,Ashleaf Shopping Centre,Crumlin,No,Yes,No,No,Private,A
+-6.401400433,53.28258537,60,Jobstown Community Centre,"Jobstown, Tallaght ",No,No,No,Yes,SDCC,G
+-6.403346351,53.30961464,61,Green Isle Hotel,Clondalkin,No,No,No,Yes,Private,B
+-6.284560101,53.29961236,62,Rathfarnham Athletics Club,Rathfarnham,No,No,No,Yes,Private,E
+-6.374422111,53.28875693,63,SDCC Multi-storey carpark,Tallaght,No,No,No,Yes,SDCC,G
+-6.469607938,53.29691668,64,Greenogue Business Park,Rathcoole,No,Yes,No,No,Private,D
+-6.415361538,53.33197068,49,Bawnogue Enterprise and Community Centre,Clondalkin,No,No,No,Yes,SDCC,B
+-6.346473882,53.30881762,2,Ballymount Civic Amenity Centre,Ballymount,Yes,Yes,Yes,Yes,Private,A
